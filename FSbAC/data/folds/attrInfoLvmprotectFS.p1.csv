@@ -1,0 +1,5 @@
+#,Feature,Partition,nbins,Time Cost Median,Time Cost Low Quartile,Time Cost High Quartile,Time Cost Low Whisker,Time Cost High Whisker,Group
+27, number_of_readable_and_executable_sections,F,5.0,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+29, number_of_Writable_and_Readable_and_Executable_sections_PE_holds,F,5.0,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+41, address_pointing_to_raw_data_on_disk_is_not_conforming_with_file_alignement,B,,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+48, Entry_Point_Byte_1,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB

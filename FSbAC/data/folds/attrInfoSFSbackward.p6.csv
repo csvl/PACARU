@@ -1,0 +1,30 @@
+#,Feature,Partition,nbins,Time Cost Median,Time Cost Low Quartile,Time Cost High Quartile,Time Cost Low Whisker,Time Cost High Whisker,Group
+1, DLLs_2,B,,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+7, DLLs_8,B,,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+8, Checksum,Q,4.0,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+10, Base_of_Code,Q,6.0,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+13, Size_of_Image,Q,10.0,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+14, Size_of_Code,Q1,9.0,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+16, Size_Of_InitializedData,Q1,9.0,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+17, Size_Of_UninitializedData,Q1,4.0,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+18, Size_Of_StackReserve,Q,4.0,6.64e-07,6.11e-07,7.14e-07,5.6e-07,8.68e-07,Metadata ME
+22, number_of_non-standards_sections_PE_holds,N,,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+30, code_section_is_not_executable,B,,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+31, executable_section_is_not_a_code_section,B,,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+32, code_section_is_not_present_in_PE_under_analysis,B,,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+34, EP_is_not_in_a_standard_section,B,,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+41, address_pointing_to_raw_data_on_disk_is_not_conforming_with_file_alignement,B,,2.38e-05,1.79e-05,3.06e-05,1.16e-05,4.97e-05,Section SE
+42, entropy_of_Code/text_sections,Q1,4.0,0.00993818,0.00335284,0.0351854,4.5e-05,0.082931,Byte Entropy BE
+48, Entry_Point_Byte_1,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+55, Entry_Point_Byte_8,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+61, Entry_Point_Byte_14,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+77, Entry_Point_Byte_30,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+78, Entry_Point_Byte_31,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+80, Entry_Point_Byte_33,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+86, Entry_Point_Byte_39,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+87, Entry_Point_Byte_40,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+94, Entry_Point_Byte_47,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+99, Entry_Point_Byte_52,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+104, Entry_Point_Byte_57,N,,6.01e-05,5.49e-05,6.52e-05,4.98e-05,8.05e-05,Entry Bytes EB
+112, number_of_DLLs_imported,Q2,7.0,0.362323,0.256188,0.479456,0.14456,0.814357,Import Functions IF
+118, number_of_resources_PE_holds,Q,9.0,0.177106,5.95e-07,0.28685,1.91e-07,0.717121,Resource RE
