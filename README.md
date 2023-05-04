@@ -1,1 +1,1 @@
-# PACARU - PAcker Classification using Associarion RUles
+# PACARU - PAcker Classification using Association RUles
